@@ -1,0 +1,2 @@
+2018-02-24.18:18:21, Items sold: 0 total price: 0.000000
+2018-02-24.18:42:13, Items sold: 2 total price: 552.000000
